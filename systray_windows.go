@@ -6,6 +6,7 @@ package mysystray
 import (
 	"crypto/md5"
 	"encoding/hex"
+	"github.com/any-call/gobase/util/mylog"
 	"io/ioutil"
 	"os"
 	"path/filepath"
